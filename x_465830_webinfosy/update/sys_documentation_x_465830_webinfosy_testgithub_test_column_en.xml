@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="test_column" label="Test column" language="en" table="x_465830_webinfosy_testgithub">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>test_column</element>
+            <help/>
+            <hint/>
+            <label>Test column</label>
+            <language>en</language>
+            <name>x_465830_webinfosy_testgithub</name>
+            <plural>Test columns</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>developer.first</sys_created_by>
+            <sys_created_on>2020-07-27 09:17:31</sys_created_on>
+            <sys_id>761c2841dbd210107ac5a9954b961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test column</sys_name>
+            <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+            <sys_update_name>sys_documentation_x_465830_webinfosy_testgithub_test_column_en</sys_update_name>
+            <sys_updated_by>developer.first</sys_updated_by>
+            <sys_updated_on>2020-07-27 09:17:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

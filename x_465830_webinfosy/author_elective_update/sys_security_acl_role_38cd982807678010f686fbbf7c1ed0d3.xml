@@ -42,7 +42,7 @@
         <update_guid_history>30cd94a8326780101dc5dcfa501f4d3d:1553434493</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_465830_webinfosy_project.x_465830_test1.Manager">e3eb9fa207b30010f686fbbf7c1ed066</sys_audit_delete>
+        <sys_audit_delete display_value="">e3eb9fa207b30010f686fbbf7c1ed066</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-30 07:19:36</sys_created_on>

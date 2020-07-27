@@ -65,7 +65,7 @@
         <update_guid_history>b6f538116084581037b93ff5cbfeb5ae:-513876760,b6f538116084581037b93ff5cbfeb5ae:-513876760</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="User Assets">de86741107845810f686fbbf7c1ed0ea</sys_audit_delete>
+        <sys_audit_delete display_value="">de86741107845810f686fbbf7c1ed0ea</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-07 08:20:17</sys_created_on>

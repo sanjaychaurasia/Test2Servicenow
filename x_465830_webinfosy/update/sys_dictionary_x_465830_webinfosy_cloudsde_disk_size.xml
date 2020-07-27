@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-22 04:34:25</sys_created_on>
-        <sys_id>4da1fba707f81010f686fbbf7c1ed067</sys_id>
+        <sys_id>8619a84ddb9210107ac5a9954b9619e3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Disk size</sys_name>
         <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
         <sys_update_name>sys_dictionary_x_465830_webinfosy_cloudsde_disk_size</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-22 04:34:25</sys_updated_on>
+        <sys_updated_on>2020-07-27 09:04:29</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

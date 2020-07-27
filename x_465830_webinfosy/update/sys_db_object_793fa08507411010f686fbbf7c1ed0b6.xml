@@ -18,7 +18,7 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Asset" name="alm_asset">a270fb6707c30010f686fbbf7c1ed0cf</super_class>
+        <super_class display_value="Asset" name="alm_asset">cc3bca5598f100107f2c2ed01a1f1609</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>

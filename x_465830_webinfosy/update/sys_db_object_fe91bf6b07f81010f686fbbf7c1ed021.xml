@@ -18,10 +18,10 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Configuration Item" name="cmdb_ci">374d6b6b07030010f686fbbf7c1ed017</super_class>
-        <sys_class_code>$)</sys_class_code>
+        <super_class display_value="Configuration Item" name="cmdb_ci">45580a59983100107f2c2ed01a1f16b4</super_class>
+        <sys_class_code>$+</sys_class_code>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_class_path>/!!/$)</sys_class_path>
+        <sys_class_path>/!!/$+</sys_class_path>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-22 04:34:26</sys_created_on>
         <sys_id>fe91bf6b07f81010f686fbbf7c1ed021</sys_id>

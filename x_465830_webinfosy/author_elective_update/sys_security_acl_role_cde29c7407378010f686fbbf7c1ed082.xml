@@ -42,7 +42,7 @@
         <update_guid_history>01e29c74b13780108888f660a4d11585:1889510135</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_465830_webinfosy_user_details.x_465830_webinfosy.Users">75952cfc07c4d410f686fbbf7c1ed025</sys_audit_delete>
+        <sys_audit_delete display_value="">75952cfc07c4d410f686fbbf7c1ed025</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-05 17:49:17</sys_created_on>

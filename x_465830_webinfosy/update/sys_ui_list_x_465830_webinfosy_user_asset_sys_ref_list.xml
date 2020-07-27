@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_465830_webinfosy_user_asset" element="NULL" name="x_465830_webinfosy_user_asset" parent="NULL" relationship="NULL" sys_domain="global" view="8afb236307030010f686fbbf7c1ed0cd">0636299d07085810f686fbbf7c1ed054</list_id>
+            <list_id display_value="x_465830_webinfosy_user_asset" element="NULL" name="x_465830_webinfosy_user_asset" parent="NULL" relationship="NULL" sys_domain="global" view="73570251983100107f2c2ed01a1f16bc">0636299d07085810f686fbbf7c1ed054</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>disk_size</element>
-            <list_id display_value="x_465830_webinfosy_user_asset" element="NULL" name="x_465830_webinfosy_user_asset" parent="NULL" relationship="NULL" sys_domain="global" view="8afb236307030010f686fbbf7c1ed0cd">0636299d07085810f686fbbf7c1ed054</list_id>
+            <list_id display_value="x_465830_webinfosy_user_asset" element="NULL" name="x_465830_webinfosy_user_asset" parent="NULL" relationship="NULL" sys_domain="global" view="73570251983100107f2c2ed01a1f16bc">0636299d07085810f686fbbf7c1ed054</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>user</element>
-            <list_id display_value="x_465830_webinfosy_user_asset" element="NULL" name="x_465830_webinfosy_user_asset" parent="NULL" relationship="NULL" sys_domain="global" view="8afb236307030010f686fbbf7c1ed0cd">0636299d07085810f686fbbf7c1ed054</list_id>
+            <list_id display_value="x_465830_webinfosy_user_asset" element="NULL" name="x_465830_webinfosy_user_asset" parent="NULL" relationship="NULL" sys_domain="global" view="73570251983100107f2c2ed01a1f16bc">0636299d07085810f686fbbf7c1ed054</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -70,7 +70,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2020-04-07 11:48:37</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">8afb236307030010f686fbbf7c1ed0cd</view>
+            <view display_value="Reference List" name="sys_ref_list">73570251983100107f2c2ed01a1f16bc</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

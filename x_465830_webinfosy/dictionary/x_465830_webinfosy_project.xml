@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Project" max_length="40" name="x_465830_webinfosy_project" sizeclass="2" text_index="true" type="collection">
+    <element extends="task" label="Project" max_length="40" name="x_465830_webinfosy_project" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Project name" max_length="200" name="project_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="8" label="Request state" mandatory="true" max_length="40" name="u_choice_5" type="string">
             <choice>
